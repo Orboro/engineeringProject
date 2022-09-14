@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Alabama Institute for Mindfulness	</title>
-	<atom:link href="/engineeringProject/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/engineeringProject</link>
+	<atom:link href="https://orboro.github.io/engineeringproject/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://orboro.github.io/engineeringproject</link>
 	<description></description>
 	<lastBuildDate>Mon, 25 Apr 2022 11:43:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
